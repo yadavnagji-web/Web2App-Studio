@@ -1,0 +1,8 @@
+{
+  "name": "Web2App Studio Pro",
+  "description": "A professional-grade suite to transform any web application into a native Android WebView project. Features AI-powered code generation, asset creation, and a guided build experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
